@@ -13,4 +13,5 @@ Extract it
 Open "index" with your browser
 
 Built on: 
-HTML CSS JS
+HTML   CSS  and JS linked internally
+ 
